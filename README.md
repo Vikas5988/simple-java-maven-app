@@ -1,3 +1,5 @@
+Edited on 10-June-2024 for Poll SCM checking in pipeline
+
 # simple-java-maven-app
 
 This repository is for the
